@@ -1,0 +1,1 @@
+table{counter-reset:row-num}table tr{counter-increment:row-num}table tr td:first-child::before{content:counter(row-num) ". "}#mySurahInput{background-position:10px 12px;background-repeat:no-repeat;width:100%;padding:12px 20px 10px 10x;margin-bottom:12px;margin-top:12px}
